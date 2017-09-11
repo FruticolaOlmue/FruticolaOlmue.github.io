@@ -1,4 +1,4 @@
-#PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
+PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 
 This privacy policy governs your use of the software application Frutícola Olmué for mobile devices that was created by Frutícola Olmué. The Application displays necessary information for our clients and producers, such as contact details, agricultural information and our web page.
 What information does the Application obtain and how is it used?
